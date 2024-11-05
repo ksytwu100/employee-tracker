@@ -14,6 +14,8 @@ This application is very useful for any business and institution. The applicatio
 
 PostgresSQL 
 
+render
+
 npm i
 
 npm i asciiart-logo, node, require, inquire@8.2.4, console.table, pg
