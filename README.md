@@ -38,8 +38,8 @@ When database needs to be reset
 5.  \i /db/seeds.sql
    
 To run the project
-Switch to bash terminal, type: node index.js
-When the server is listening, open the insomnia to set up and run the routes.
+1.  Switch to bash terminal, type: node index.js
+2.  When the server is listening, open the insomnia application window to set up and run the routes.
 
 ## Questions
 
