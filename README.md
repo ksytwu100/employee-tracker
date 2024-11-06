@@ -39,7 +39,7 @@ When database needs to be reset
    
 To run the project
 Switch to bash terminal, type: node index.js
-When the server is listening, Open the insomnia to set up and run the routes
+When the server is listening, open the insomnia to set up and run the routes.
 
 ## Questions
 
