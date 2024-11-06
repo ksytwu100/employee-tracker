@@ -6,7 +6,7 @@ This application, employee_tracker, is a command-line application to manage a co
 
 ## Usage
 
-This application is very useful for any business and institution. The application asks the user "What would you like to do?" and provides a list of the answers for the responsive user to select and/or write in the answer that generates and displays the requested Table and material. All the data are organized and stored in the PostgreSQL database. The application can be invoked by using the command: node index.js in the terminal.
+This application is very useful for any business and institution. The application asks the user "What would you like to do?" and provides a list of the answers for the responsive user to select and/or write in the answer that generates and displays the requested Table and material. All the data are organized and stored in the PostgreSQL database. This project does not have front end. To run the project, please follow the instructions under Test. 
 
 ##  A walkthrough video link: https://drive.google.com/file/d/13GWSsax4uUmLahO5vdfdWzAq-1L-ZSV6/view?usp=drive_link
 
@@ -30,7 +30,16 @@ MIT
 
 ## Test
 
-node index.js
+When database needs to be reset
+1.  In the terminal, type: psql -U postgres
+2.  Enter password
+3.  \c employee_tracker
+4.  \i /db/schema.sql
+5.  \i /db/seeds.sql
+   
+To run the project
+Switch to bash terminal, type: node index.js
+When the server is listening, Open the insomnia to set up and run the routes
 
 ## Questions
 
