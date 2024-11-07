@@ -36,7 +36,7 @@ When database needs to be reset
 5.  \i /db/seeds.sql
    
 To run the project
-1.  Switch to bash terminal, type: node index.js
+Switch to bash terminal, type: node index.js
 
 ## Questions
 
