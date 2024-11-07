@@ -40,8 +40,9 @@ To run the project
 
 ## Questions
 
-When the GitHub profile (https://github.com/ksytwu100) is provided, that is added to the section entitled Questions. When the user clicks on the following links, then the user is taken to the corresponding section of the README Generator.md
+Link to my GitHub profile (https://github.com/ksytwu100)
 
-It is your responsibility to include a note in the README section of your repo specifying code source and its location within your repo.
-The application is built with the understanding of the required materials by attending classes, BCS tutoring sessions, Google searches, and references of the class activities in the modules.
+The question in the module - It is your responsibility to include a note in the README section of your repo specifying code source and its location within your repo.
+
+The application is built with my understanding of the required materials by attending classes, BCS tutoring sessions, Google searches, and references of the class activities in the modules.
 
