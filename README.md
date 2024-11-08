@@ -16,7 +16,7 @@ PostgresSQL
 
 npm i
 
-npm i asciiart-logo, node, require, inquire@8.2.4, console.table, pg
+npm i asciiart-logo node require inquire@8.2.4 console.table pg
 
 ## Credits
 
