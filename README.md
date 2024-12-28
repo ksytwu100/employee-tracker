@@ -2,7 +2,7 @@
 
 ## Description
 
-This application, employee_tracker, is a command-line application to manage a company's employee database. The application uses Node.js, Inquirer, and PostgreSQL. The students learn to create a database and seed the database, use create, read, update, delete functions (CRUD) by PostgreSQL commands, write a SQL query using a primary key and foreign key that joins two tables and perform calculations by a set of values by using SQL function. The employee manager can view, plan, and efficiently manage the business.
+This application, employee_tracker, is a command-line application to manage a company's employee database. The application uses Node.js, Inquirer, and PostgreSQL. The students learn to create a database and seed the database, use create, read, update, and delete functions (CRUD) by PostgreSQL commands, write a SQL query using a primary key and foreign key that joins two tables, and perform calculations by a set of values by using SQL function. The employee manager can view, plan, and efficiently manage the business.
 
 ## Usage
 
@@ -28,7 +28,7 @@ MIT
 
 ## Test
 
-When database needs to be reset
+When the database needs to be reset
 1.  In the terminal, type: psql -U postgres
 2.  Enter password
 3.  \c employee_tracker
@@ -42,7 +42,7 @@ Switch to bash terminal, type: node index.js
 
 Link to my GitHub profile (https://github.com/ksytwu100)
 
-The question in the module - It is your responsibility to include a note in the README section of your repo specifying code source and its location within your repo.
+The question in the module - It is your responsibility to include a note in the README section of your repo specifying the code source and its location within your repo.
 
-The application is built with my understanding of the required materials by attending classes, BCS tutoring sessions, Google searches, and references of the class activities in the modules.
+The application is built with my understanding of the required materials by attending classes, BCS tutoring sessions, Google searches, and references to the class activities in the modules.
 
